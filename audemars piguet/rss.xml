@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Audemars Piguet</title>
+  <link>index.html</link>
+  <description> Audemars Piguet Watches</description>
+  <item>
+    <title>ROYAL OAK OFFSHORE</title>
+    <link>mens.html</link>
+    <description>The Royal Oak Offshore collection has defied established conventions since 1993, giving an ever more sporty, masculine and powerful take on the iconic Royal Oak and its aesthetic codes.</description>
+  </item>
+  <item>
+    <title>New women's watches</title>
+    <link>womens.html</link>
+    <description>An ultra-modern collection that exemplifies a drive to innovate and a spirit of independence.</description>
+  </item>
+</channel>
+</rss>
